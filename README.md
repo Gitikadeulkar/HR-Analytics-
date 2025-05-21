@@ -2,10 +2,9 @@ Developed an interactive HR analytics dashboard using Power BI and Tableau to mo
 
 Key Features:
 
-Visualized KPIs such as employee turnover, hiring trends, and average tenure.
+Visualized KPIs such as Average Age, Attrition by Gender, Department wise Attrition, No of Employee by Age Group, Education Field wise Attrition, Attrition Rate by Gender for different Age Group and Job Satisfaction Rating.
 
 Created dynamic filters and slicers for region, department, and gender analysis.
 
 Integrated data from multiple sources (Excel/SQL) and performed data cleaning and transformation using Power Query and Tableau Prep.
-
-Enabled HR and leadership teams to identify attrition risks and optimize workforce planning.# HR-Analytics-
+# HR-Analytics-
